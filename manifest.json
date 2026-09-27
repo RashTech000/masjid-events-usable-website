@@ -1,0 +1,18 @@
+{
+  "name": "Masjid Kisota",
+  "short_name": "Kisota",
+  "description": "Ratiba za Swala, Matangazo na Khutba za Ijumaa — Masjid Kisota, Mjimwema, Kigamboni.",
+  "start_url": "index.php",
+  "id": "index.php",
+  "scope": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#FAF7EF",
+  "theme_color": "#0B6B53",
+  "lang": "sw",
+  "icons": [
+    { "src": "icon-192.png", "sizes": "192x192", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512.png", "sizes": "512x512", "type": "image/png", "purpose": "any" },
+    { "src": "icon-512-maskable.png", "sizes": "512x512", "type": "image/png", "purpose": "maskable" }
+  ]
+}
